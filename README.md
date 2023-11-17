@@ -6,7 +6,7 @@ The title of this project is "RFID SECURED GESTURE CONTROLLED ROBOTIC ARM WITH R
 
 ![image](https://user-images.githubusercontent.com/121758341/232398011-799b831e-cbf4-4bdb-b675-784cd92a368c.png)
 
-"connection of RFID reader to the second arduino where rfid code is loaded"
+*connection of RFID reader
 
 ![image](https://user-images.githubusercontent.com/121758341/232398744-47005545-0734-49e7-9fbe-274ebb06269d.png)
 
