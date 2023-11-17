@@ -1,8 +1,3 @@
-/*
-   RFID SECURED GESTURE CONTROLLED ROBOTIC ARM WITH RECORD AND PLAYBACK FEATURE
-   Code by: Akash Shinde
-   Dated: 10-04-2023
-*/
 #include <Servo.h> //Servo header file
 
 //Declare object for 5 Servo Motors  
